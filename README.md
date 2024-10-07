@@ -1,1 +1,1 @@
-# Silent_Auction_program
+The Silent Auction is a common type of Auction which is also known as "Blind Auction", where bidders simultaneously submit sealed bids, so that no other bidder knows the bid of other participants. The Person who pay's the highest bid is the winner of the Auction. We seen Blind Auction a lot in construction Industry , Government..... etc.  
